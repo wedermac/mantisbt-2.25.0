@@ -28,6 +28,10 @@
  * @uses print_api.php
  */
 
+/*
+Adicionando o breakpoint aqui para debugar desde o inicio da aplicação
+*/
+
 require_once( 'core.php' );
 require_api( 'authentication_api.php' );
 require_api( 'config_api.php' );
